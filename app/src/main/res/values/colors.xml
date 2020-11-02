@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ffd700</color>
+    <color name="colorPrimaryDark">#ed1b24</color>
+    <color name="colorAccent">@color/text_color_primary</color>
+
+    <color name="text_color">#EA0800</color>
+    <color name="text_input_hint_color">#959aa6</color>
+    <color name="order_status_ongoing_color">#FF834A</color>
+    <color name="order_status_delivered_color">#38AA35</color>
+    <color name="order_status_cancelled_color">#D10000</color>
+
+    <color name="text_color_primary">@android:color/black</color>
+    <color name="text_color_secondary">@android:color/white</color>
+    <color name="uploading_transparent">#66000000</color>
+
+    <color name="actionbar_gradient_start">#24A8F0</color>
+    <color name="actionbar_gradient_end">#45AFEC</color>
+    <color name="white">#FFFFFF</color>
+    <color name="gray_33">#333333</color>
+    <color name="grey_EA">#EAEAEA</color>
+    <color name="separatorColor">#787878</color>
+</resources>
